@@ -1,0 +1,12 @@
+#Fundo {
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/98/69/eMDTLX.png);
+    margin: -8px;
+    display: flex;
+    justify-content: flex-start;
+    height: 1080px;
+}
+
+#Conteudo {
+    list-style: none;
+    font-family: cursive;
+}

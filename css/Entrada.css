@@ -1,0 +1,237 @@
+#Barra {
+  background-color: blueviolet;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  right: 0cm;
+  display: inline-block;
+  border-radius: 1cm;
+
+}
+
+
+
+.Page {
+  width: 1000px;
+  float: right;
+  background-color: papayawhip;
+  border-style: outset;
+  border-radius: 20px;
+  margin: 1.5cm;
+  padding-right: 40px;
+}
+
+#Frase {
+  color: firebrick;
+  text-align: left;
+}
+
+
+#FundoP {
+  background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/79/52/aWRgvD.jpg);
+  margin: -8px;
+  display: flex;
+  justify-content: space-evenly;
+  background-attachment: fixed;
+}
+
+#PrimeiraFoto {
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+
+}
+
+p {
+  text-align: left;
+  line-height: 17px;
+  font-size: 1.2pc;
+  font-family: cursive;
+  align-items: center;
+  text-align: -webkit-center;
+
+}
+
+.Link {
+  text-decoration: underline;
+}
+
+.FotoLado {
+  flex-direction: row-reverse;
+  width: fit-content;
+  display: flex;
+  margin: 5px;
+  line-height: 16px;
+  font-size: 1.2pc;
+}
+
+
+#Audio {
+  width: 175px;
+  height: revert;
+}
+
+#CartaTp {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+#CartaTemp {
+  display: inline-flex;
+  background-color: darkgray;
+  font-family: cursive;
+  margin-left: 35px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.Bar {
+  text-align: left;
+  line-height: 15px;
+  font-size: 1.2pc;
+  float: left;
+  display: block;
+  padding: 8px;
+  border-style: inset;
+  border-radius: 20px;
+  border-color: rgb(156, 74, 233);
+  transform: translateY(-8px);
+  font-family: sans-serif;
+
+}
+
+#Menu {
+  list-style-type: none;
+}
+
+#DioYoung {
+  width: 200px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#DioAdult {
+  width: 275px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#DioEsc {
+  width: 300px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#DioRev {
+  width: 300px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#DioZawarudo {
+  width: 300px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JonYoung {
+  width: 200px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JonAdult {
+  width: 250px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JotaroSC {
+  width: 200px;
+  height: 420px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JotaroDU {
+  width: 200px;
+  height: 400px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JotaroGW {
+  width: 300px;
+  height: 420px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+#JotaroSO {
+  width: 200px;
+  height: 420px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+#Josuke {
+  width: 200px;
+  height: 420px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+}
