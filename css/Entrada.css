@@ -196,7 +196,7 @@ td {
 
 #JotaroSC {
   width: 200px;
-  height: 420px;
+  height: 450px;
   left: 10cm;
   border-style: outset;
   border-radius: 20px;
@@ -206,8 +206,8 @@ td {
 }
 
 #JotaroDU {
-  width: 200px;
-  height: 400px;
+  width: 220px;
+  height: 430px;
   left: 10cm;
   border-style: outset;
   border-radius: 20px;
@@ -218,7 +218,7 @@ td {
 
 #JotaroGW {
   width: 300px;
-  height: 420px;
+  height: 440px;
   left: 10cm;
   border-style: outset;
   border-radius: 20px;
@@ -228,8 +228,8 @@ td {
 }
 
 #JotaroSO {
-  width: 200px;
-  height: 420px;
+  width: 300px;
+  height: 450px;
   left: 10cm;
   border-style: outset;
   border-radius: 20px;
@@ -245,6 +245,39 @@ a {
 #Josuke {
   width: 300px;
   height: 450px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+  margin-left: 15px
+}
+
+#Joseph {
+  width: 300px;
+  height: 435px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+  margin-left: 15px
+}
+
+#Joseph50 {
+  width: 300px;
+  height: 435px;
+  left: 10cm;
+  border-style: outset;
+  border-radius: 20px;
+  border-color: blue;
+  display: inline;
+  margin-left: 15px
+}
+
+#JosephVelho {
+  width: 300px;
+  height: 435px;
   left: 10cm;
   border-style: outset;
   border-radius: 20px;
